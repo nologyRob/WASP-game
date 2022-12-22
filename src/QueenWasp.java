@@ -1,0 +1,1 @@
+public class QueenWasp extends Wasp{    public QueenWasp(int id) {        super(80, id, "Queen");    }}

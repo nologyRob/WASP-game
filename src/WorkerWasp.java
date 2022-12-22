@@ -1,0 +1,1 @@
+public class WorkerWasp extends Wasp{    public WorkerWasp(int id) {        super(68, id, "Worker");    }}
